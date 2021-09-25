@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151214872436",
+    "firebase_url": "https://trueyogi-6a025-default-rtdb.firebaseio.com",
+    "project_id": "trueyogi-6a025",
+    "storage_bucket": "trueyogi-6a025.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151214872436:android:8f864d3dc076581fcfbe21",
+        "android_client_info": {
+          "package_name": "com.metin.firebaselogindeneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151214872436-7jmomkdvips1kkgkk70vbhkmv9ordqgr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.metin.firebaselogindeneme",
+            "certificate_hash": "4dd445cc285f43b8d54f784b21c8d3fec22f750c"
+          }
+        },
+        {
+          "client_id": "151214872436-6b4ftjsl0cem30kpl74m4gl153lb9f7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbB0xR7HwWDZX9uzD4dnGXCufQPoHKO1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151214872436-6b4ftjsl0cem30kpl74m4gl153lb9f7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
